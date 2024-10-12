@@ -42,7 +42,7 @@ button {
   button:before {
     top: 100%;
     left: 100%;
-    transition: all 0.7s;
+    transition: all 0.4s;
   }
   
   button:hover:before {

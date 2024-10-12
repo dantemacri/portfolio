@@ -1,8 +1,11 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(175deg, #090c27, #3825a1);
-    text-align: center;
-    padding: 50px;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {

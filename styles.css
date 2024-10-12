@@ -8,12 +8,6 @@ body {
     align-items: center;
 }
 
-.titulo {
-    color: #ececf5; /* Amarillo */
-    font-size: 36px; /* Puedes ajustar el tamaño también */
-    text-align: center; /* Para centrar el texto, si querés */
-}
-
 button {
     --color: #560bad;
     font-family: inherit;

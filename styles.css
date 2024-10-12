@@ -8,6 +8,15 @@ body {
     align-items: center;
 }
 
+.titulo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    font-size: 36px;
+    color: #ffcc00;
+}
+
 button {
     --color: #560bad;
     font-family: inherit;

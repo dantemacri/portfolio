@@ -17,12 +17,6 @@ body {
     color: #ffcc00;
 }
 
-.botones-container {
-    display: flex;
-    flex-direction: column; /* Alinea los botones verticalmente */
-    gap: 15px;              /* Espacio entre los botones */
-}
-
 button {
     --color: #560bad;
     font-family: inherit;
